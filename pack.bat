@@ -1,0 +1,1 @@
+pyinstaller -F run_keke.py --add-data "keke.html;."
